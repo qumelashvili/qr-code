@@ -1,0 +1,30 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+}
+.qr-code{
+    width: 320px;
+    height: 497px;
+    padding: 16px;
+    box-sizing: border-box;
+    border-radius: 20px;
+    margin: 151px auto;
+    
+}
+.qr-code img{
+    width: 288px;
+    height: 288px;
+    border-radius: 10px;
+}
+.qr-code h3{
+    margin-top: 5px;
+    font-size: 22px;
+    color: #1F314F;
+    font-weight: 700;
+    
+}
+.qr-code p{
+    font-size: 16px;
+    color: #7D889E;
+    letter-spacing: 0.19px;
+    line-height: 18.9px;
+}
